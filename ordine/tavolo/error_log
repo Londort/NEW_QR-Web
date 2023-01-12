@@ -1,0 +1,353 @@
+[04-Jan-2023 13:22:27 Europe/Madrid] PHP Warning:  fopen(https://api.telegram.org/bot5983802501:AAFbfnwqsGhSjYK0TBMtlAo__XaPVsVtMkA/sendMessage?chat_id=-872131602&amp;parse_mode=html&amp;text=Order:
+piatto: Degustazione cruditè di pesce fresco 
+quantita: 1 
+prezzo: 25.00 
+piatto: Degustazione cruditè di pesce fresco 
+quantita: 1 
+prezzo: 25.00 
+Totale: 25.00 
+): Failed to open stream: HTTP request failed! HTTP/1.1 401 Unauthorized
+ in /home/prontocl/servizimenu.it/menutest/ordine/tavolo/londort-send.php on line 23
+[04-Jan-2023 13:26:52 Europe/Madrid] PHP Warning:  fopen(https://api.telegram.org/bot5983802501:AAFbfnwqsGhSjYK0TBMtlAo__XaPVsVtMkA/sendMessage?chat_id=-872131602&amp;parse_mode=html&amp;text=Order:
+piatto: Degustazione cruditè di pesce fresco 
+quantita: 1 
+prezzo: 25.00 
+piatto: Degustazione cruditè di pesce fresco 
+quantita: 1 
+prezzo: 25.00 
+Totale: 25.00 
+): Failed to open stream: HTTP request failed! HTTP/1.1 401 Unauthorized
+ in /home/prontocl/servizimenu.it/menutest/ordine/tavolo/londort-send.php on line 23
+[04-Jan-2023 13:28:07 Europe/Madrid] PHP Warning:  fopen(https://api.telegram.org/bot5983802501:AAFbfnwqsGhSjYK0TBMtlAo__XaPVsVtMkA/sendMessage?chat_id=-872131602&amp;parse_mode=html&amp;text=Order:
+piatto: Degustazione cruditè di pesce fresco 
+quantita: 1 
+prezzo: 25.00 
+piatto: Degustazione cruditè di pesce fresco 
+quantita: 1 
+prezzo: 25.00 
+Totale: 25.00 
+): Failed to open stream: HTTP request failed! HTTP/1.1 401 Unauthorized
+ in /home/prontocl/servizimenu.it/menutest/ordine/tavolo/londort-send.php on line 23
+[04-Jan-2023 13:36:33 Europe/Madrid] PHP Warning:  fopen(https://api.telegram.org/bot5983802501:AAFbfnwqsGhSjYK0TBMtlAo__XaPVsVtMkA/sendMessage?chat_id=-872131602&amp;parse_mode=html&amp;text=Order:
+piatto: Degustazione cruditè di pesce fresco 
+quantita: 1 
+prezzo: 25.00 
+piatto: Degustazione cruditè di pesce fresco 
+quantita: 1 
+prezzo: 25.00 
+Totale: 25.00 
+): Failed to open stream: HTTP request failed! HTTP/1.1 401 Unauthorized
+ in /home/prontocl/servizimenu.it/menutest/ordine/tavolo/londort-send.php on line 23
+[04-Jan-2023 13:46:24 Europe/Madrid] PHP Warning:  fopen(https://api.telegram.org/bot5983802501:AAFbfnwqsGhSjYK0TBMtlAo__XaPVsVtMkA/sendMessage?chat_id=-872131602&amp;parse_mode=html&amp;text=Order:
+piatto: Degustazione cruditè di pesce fresco 
+quantita: 1 
+prezzo: 25.00 
+piatto: Degustazione cruditè di pesce fresco 
+quantita: 1 
+prezzo: 25.00 
+Totale: 25.00 
+): Failed to open stream: HTTP request failed! HTTP/1.1 401 Unauthorized
+ in /home/prontocl/servizimenu.it/menutest/ordine/tavolo/londort-send.php on line 23
+[04-Jan-2023 13:51:11 Europe/Madrid] PHP Warning:  fopen(https://api.telegram.org/bot5983802501:AAFbfnwqsGhSjYK0TBMtlAo__XaPVsVtMkA/sendMessage?chat_id=-872131602&amp;parse_mode=html&amp;text=Order:
+piatto: Degustazione cruditè di pesce fresco 
+quantita: 1 
+prezzo: 25.00 
+piatto: Degustazione cruditè di pesce fresco 
+quantita: 1 
+prezzo: 25.00 
+Totale: 25.00 
+): Failed to open stream: HTTP request failed! HTTP/1.1 401 Unauthorized
+ in /home/prontocl/servizimenu.it/menutest/ordine/tavolo/londort-send.php on line 23
+[04-Jan-2023 13:52:17 Europe/Madrid] PHP Warning:  fopen(https://api.telegram.org/bot5983802501:AAFbfnwqsGhSjYK0TBMtlAo__XaPVsVtMkA/sendMessage?chat_id=-872131602&amp;parse_mode=html&amp;text=Order:
+piatto: Degustazione cruditè di pesce fresco 
+quantita: 1 
+prezzo: 25.00 
+piatto: Degustazione cruditè di pesce fresco 
+quantita: 1 
+prezzo: 25.00 
+Totale: 25.00 
+): Failed to open stream: HTTP request failed! HTTP/1.1 401 Unauthorized
+ in /home/prontocl/servizimenu.it/menutest/ordine/tavolo/londort-send.php on line 23
+[04-Jan-2023 14:12:43 Europe/Madrid] PHP Warning:  fopen(https://api.telegram.org/bot5983802501:AAFbfnwqsGhSjYK0TBMtlAo__XaPVsVtMkA/sendMessage?chat_id=-872131602&amp;parse_mode=html&amp;text=Order:
+piatto: Degustazione cruditè di pesce fresco 
+quantita: 1 
+prezzo: 25.00 
+piatto: Degustazione cruditè di pesce fresco 
+quantita: 1 
+prezzo: 25.00 
+Totale: 25.00 
+): Failed to open stream: HTTP request failed! HTTP/1.1 401 Unauthorized
+ in /home/prontocl/servizimenu.it/menutest/ordine/tavolo/londort-send.php on line 23
+[04-Jan-2023 14:20:49 Europe/Madrid] PHP Warning:  fopen(https://api.telegram.org/bot5983802501:AAFbfnwqsGhSjYK0TBMtlAo__XaPVsVtMkA/sendMessage?chat_id=-872131602&amp;parse_mode=html&amp;text=Order:
+piatto: Degustazione cruditè di pesce fresco 
+quantita: 1 
+prezzo: 25.00 
+piatto: Degustazione cruditè di pesce fresco 
+quantita: 1 
+prezzo: 25.00 
+Totale: 25.00 
+): Failed to open stream: HTTP request failed! HTTP/1.1 401 Unauthorized
+ in /home/prontocl/servizimenu.it/menutest/ordine/tavolo/londort-send.php on line 23
+[04-Jan-2023 14:28:42 Europe/Madrid] PHP Warning:  fopen(https://api.telegram.org/bot5983802501:AAFbfnwqsGhSjYK0TBMtlAo__XaPVsVtMkA/sendMessage?chat_id=-872131602&amp;parse_mode=html&amp;text=Order:
+piatto: Degustazione cruditè di pesce fresco 
+quantita: 1 
+prezzo: 25.00 
+piatto: Degustazione cruditè di pesce fresco 
+quantita: 1 
+prezzo: 25.00 
+Totale: 25.00 
+): Failed to open stream: HTTP request failed! HTTP/1.1 401 Unauthorized
+ in /home/prontocl/servizimenu.it/menutest/ordine/tavolo/londort-send.php on line 23
+[04-Jan-2023 14:36:10 Europe/Madrid] PHP Warning:  fopen(https://api.telegram.org/bot5983802501:AAFbfnwqsGhSjYK0TBMtlAo__XaPVsVtMkA/sendMessage?chat_id=-872131602&amp;parse_mode=html&amp;text=Order:
+piatto: Degustazione cruditè di pesce fresco 
+quantita: 1 
+prezzo: 25.00 
+piatto: Degustazione cruditè di pesce fresco 
+quantita: 1 
+prezzo: 25.00 
+Totale: 25.00 
+): Failed to open stream: HTTP request failed! HTTP/1.1 401 Unauthorized
+ in /home/prontocl/servizimenu.it/menutest/ordine/tavolo/londort-send.php on line 23
+[04-Jan-2023 14:40:48 Europe/Madrid] PHP Warning:  fopen(https://api.telegram.org/bot5983802501:AAFbfnwqsGhSjYK0TBMtlAo__XaPVsVtMkA/sendMessage?chat_id=-872131602&amp;parse_mode=html&amp;text=Order:
+piatto: Degustazione cruditè di pesce fresco 
+quantita: 1 
+prezzo: 25.00 
+piatto: Degustazione cruditè di pesce fresco 
+quantita: 1 
+prezzo: 25.00 
+Totale: 25.00 
+): Failed to open stream: HTTP request failed! HTTP/1.1 401 Unauthorized
+ in /home/prontocl/servizimenu.it/menutest/ordine/tavolo/londort-send.php on line 23
+[04-Jan-2023 14:44:03 Europe/Madrid] PHP Warning:  fopen(https://api.telegram.org/bot5983802501:AAFbfnwqsGhSjYK0TBMtlAo__XaPVsVtMkA/sendMessage?chat_id=-872131602&amp;parse_mode=html&amp;text=Order:
+piatto: Degustazione cruditè di pesce fresco 
+quantita: 1 
+prezzo: 25.00 
+piatto: Degustazione cruditè di pesce fresco 
+quantita: 1 
+prezzo: 25.00 
+Totale: 25.00 
+): Failed to open stream: HTTP request failed! HTTP/1.1 401 Unauthorized
+ in /home/prontocl/servizimenu.it/menutest/ordine/tavolo/londort-send.php on line 23
+[04-Jan-2023 14:49:29 Europe/Madrid] PHP Warning:  fopen(https://api.telegram.org/bot5983802501:AAFbfnwqsGhSjYK0TBMtlAo__XaPVsVtMkA/sendMessage?chat_id=-872131602&amp;parse_mode=html&amp;text=Order:
+piatto: Degustazione cruditè di pesce fresco 
+quantita: 1 
+prezzo: 25.00 
+piatto: Degustazione cruditè di pesce fresco 
+quantita: 1 
+prezzo: 25.00 
+Totale: 25.00 
+): Failed to open stream: HTTP request failed! HTTP/1.1 401 Unauthorized
+ in /home/prontocl/servizimenu.it/menutest/ordine/tavolo/londort-send.php on line 23
+[04-Jan-2023 14:50:27 Europe/Madrid] PHP Warning:  fopen(https://api.telegram.org/bot5983802501:AAFbfnwqsGhSjYK0TBMtlAo__XaPVsVtMkA/sendMessage?chat_id=-872131602&amp;parse_mode=html&amp;text=Order:
+piatto: Degustazione cruditè di pesce fresco 
+quantita: 1 
+prezzo: 25.00 
+piatto: Degustazione cruditè di pesce fresco 
+quantita: 1 
+prezzo: 25.00 
+Totale: 25.00 
+): Failed to open stream: HTTP request failed! HTTP/1.1 401 Unauthorized
+ in /home/prontocl/servizimenu.it/menutest/ordine/tavolo/londort-send.php on line 23
+[04-Jan-2023 14:50:42 Europe/Madrid] PHP Warning:  fopen(https://api.telegram.org/bot5983802501:AAFbfnwqsGhSjYK0TBMtlAo__XaPVsVtMkA/sendMessage?chat_id=-872131602&amp;parse_mode=html&amp;text=Order:
+piatto: Degustazione cruditè di pesce fresco 
+quantita: 1 
+prezzo: 25.00 
+piatto: Degustazione cruditè di pesce fresco 
+quantita: 1 
+prezzo: 25.00 
+Totale: 25.00 
+): Failed to open stream: HTTP request failed! HTTP/1.1 401 Unauthorized
+ in /home/prontocl/servizimenu.it/menutest/ordine/tavolo/londort-send.php on line 23
+[04-Jan-2023 16:18:49 Europe/Madrid] PHP Warning:  fopen(https://api.telegram.org/bot5983802501:AAFbfnwqsGhSjYK0TBMtlAo__XaPVsVtMkA/sendMessage?chat_id=-872131602&amp;parse_mode=html&amp;text=Order:
+piatto: Degustazione cruditè di pesce fresco 
+quantita: 1 
+prezzo: 25.00 
+piatto: Degustazione cruditè di pesce fresco 
+quantita: 1 
+prezzo: 25.00 
+Totale: 25.00 
+): Failed to open stream: HTTP request failed! HTTP/1.1 401 Unauthorized
+ in /home/prontocl/servizimenu.it/menutest/ordine/tavolo/londort-send.php on line 23
+[04-Jan-2023 16:20:52 Europe/Madrid] PHP Warning:  fopen(https://api.telegram.org/bot5983802501:AAFbfnwqsGhSjYK0TBMtlAo__XaPVsVtMkA/sendMessage?chat_id=-872131602&amp;parse_mode=html&amp;text=Order:
+piatto: Degustazione cruditè di pesce fresco 
+quantita: 1 
+prezzo: 25.00 
+piatto: Degustazione cruditè di pesce fresco 
+quantita: 1 
+prezzo: 25.00 
+Totale: 25.00 
+): Failed to open stream: HTTP request failed! HTTP/1.1 401 Unauthorized
+ in /home/prontocl/servizimenu.it/menutest/ordine/tavolo/londort-send.php on line 23
+[04-Jan-2023 16:27:27 Europe/Madrid] PHP Warning:  fopen(https://api.telegram.org/bot5983802501:AAFbfnwqsGhSjYK0TBMtlAo__XaPVsVtMkA/sendMessage?chat_id=-872131602&amp;parse_mode=html&amp;text=Order:
+piatto: Degustazione cruditè di pesce fresco 
+quantita: 1 
+prezzo: 25.00 
+piatto: Degustazione cruditè di pesce fresco 
+quantita: 1 
+prezzo: 25.00 
+Totale: 25.00 
+): Failed to open stream: HTTP request failed! HTTP/1.1 401 Unauthorized
+ in /home/prontocl/servizimenu.it/menutest/ordine/tavolo/londort-send.php on line 23
+[04-Jan-2023 16:30:33 Europe/Madrid] PHP Warning:  fopen(https://api.telegram.org/bot5983802501:AAFbfnwqsGhSjYK0TBMtlAo__XaPVsVtMkA/sendMessage?chat_id=-872131602&amp;parse_mode=html&amp;text=Order:
+piatto: Degustazione cruditè di pesce fresco 
+quantita: 1 
+prezzo: 25.00 
+piatto: Degustazione cruditè di pesce fresco 
+quantita: 1 
+prezzo: 25.00 
+Totale: 25.00 
+): Failed to open stream: HTTP request failed! HTTP/1.1 401 Unauthorized
+ in /home/prontocl/servizimenu.it/menutest/ordine/tavolo/londort-send.php on line 23
+[04-Jan-2023 16:35:06 Europe/Madrid] PHP Warning:  fopen(https://api.telegram.org/bot5983802501:AAFbfnwqsGhSjYK0TBMtlAo__XaPVsVtMkA/sendMessage?chat_id=-872131602&amp;parse_mode=html&amp;text=Order:
+piatto: Art:Spaghetti al tonno fresco, pomodorini, capperi, olive e pan grattato 
+quantita: 1 
+prezzo: 13.00 
+piatto: Art:Spaghetti al tonno fresco, pomodorini, capperi, olive e pan grattato 
+quantita: 1 
+prezzo: 13.00 
+Totale: 13.00 
+): Failed to open stream: HTTP request failed! HTTP/1.1 401 Unauthorized
+ in /home/prontocl/servizimenu.it/menutest/ordine/tavolo/londort-send.php on line 23
+[04-Jan-2023 16:40:14 Europe/Madrid] PHP Warning:  fopen(https://api.telegram.org/bot5983802501:AAFbfnwqsGhSjYK0TBMtlAo__XaPVsVtMkA/sendMessage?chat_id=-872131602&amp;parse_mode=html&amp;text=Order:
+piatto: Art:Spaghetti al tonno fresco, pomodorini, capperi, olive e pan grattato 
+quantita: 1 
+prezzo: 13.00 
+piatto: Art:Spaghetti al tonno fresco, pomodorini, capperi, olive e pan grattato 
+quantita: 1 
+prezzo: 13.00 
+Totale: 13.00 
+): Failed to open stream: HTTP request failed! HTTP/1.1 401 Unauthorized
+ in /home/prontocl/servizimenu.it/menutest/ordine/tavolo/londort-send.php on line 23
+[04-Jan-2023 16:41:42 Europe/Madrid] PHP Warning:  fopen(https://api.telegram.org/bot5983802501:AAFbfnwqsGhSjYK0TBMtlAo__XaPVsVtMkA/sendMessage?chat_id=-872131602&amp;parse_mode=html&amp;text=Order:
+piatto: Art:Spaghetti al tonno fresco, pomodorini, capperi, olive e pan grattato 
+quantita: 1 
+prezzo: 13.00 
+piatto: Art:Spaghetti al tonno fresco, pomodorini, capperi, olive e pan grattato 
+quantita: 1 
+prezzo: 13.00 
+Totale: 13.00 
+): Failed to open stream: HTTP request failed! HTTP/1.1 401 Unauthorized
+ in /home/prontocl/servizimenu.it/menutest/ordine/tavolo/londort-send.php on line 23
+[04-Jan-2023 16:41:45 Europe/Madrid] PHP Warning:  fopen(https://api.telegram.org/bot5983802501:AAFbfnwqsGhSjYK0TBMtlAo__XaPVsVtMkA/sendMessage?chat_id=-872131602&amp;parse_mode=html&amp;text=Order:
+piatto: Art:Spaghetti al tonno fresco, pomodorini, capperi, olive e pan grattato 
+quantita: 1 
+prezzo: 13.00 
+piatto: Art:Spaghetti al tonno fresco, pomodorini, capperi, olive e pan grattato 
+quantita: 1 
+prezzo: 13.00 
+Totale: 13.00 
+): Failed to open stream: HTTP request failed! HTTP/1.1 401 Unauthorized
+ in /home/prontocl/servizimenu.it/menutest/ordine/tavolo/londort-send.php on line 23
+[04-Jan-2023 16:43:52 Europe/Madrid] PHP Warning:  fopen(https://api.telegram.org/bot5983802501:AAFbfnwqsGhSjYK0TBMtlAo__XaPVsVtMkA/sendMessage?chat_id=-872131602&amp;parse_mode=html&amp;text=Order:
+piatto: Art:Spaghetti al tonno fresco, pomodorini, capperi, olive e pan grattato 
+quantita: 1 
+prezzo: 13.00 
+piatto: Art:Spaghetti al tonno fresco, pomodorini, capperi, olive e pan grattato 
+quantita: 1 
+prezzo: 13.00 
+Totale: 13.00 
+): Failed to open stream: HTTP request failed! HTTP/1.1 401 Unauthorized
+ in /home/prontocl/servizimenu.it/menutest/ordine/tavolo/londort-send.php on line 23
+[05-Jan-2023 10:56:25 Europe/Madrid] PHP Warning:  fopen(https://api.telegram.org/bot5983802501:AAFbfnwqsGhSjYK0TBMtlAo__XaPVsVtMkA/sendMessage?chat_id=-872131602&amp;parse_mode=html&amp;text=Order:
+piatto: Degustazione cruditè di pesce fresco 
+quantita: 1 
+prezzo: 25.00 
+piatto: Degustazione cruditè di pesce fresco 
+quantita: 1 
+prezzo: 25.00 
+Totale: 25.00 
+): Failed to open stream: HTTP request failed! HTTP/1.1 401 Unauthorized
+ in /home/prontocl/servizimenu.it/menutest/ordine/tavolo/londort-send.php on line 23
+[05-Jan-2023 16:35:30 Europe/Madrid] PHP Warning:  fopen(https://api.telegram.org/bot5983802501:AAFbfnwqsGhSjYK0TBMtlAo__XaPVsVtMkA/sendMessage?chat_id=-872131602&amp;parse_mode=html&amp;text=Order:
+piatto: Degustazione cruditè di pesce fresco 
+quantita: 1 
+prezzo: 50.00 
+piatto: Degustazione cruditè di pesce fresco 
+quantita: 1 
+prezzo: 50.00 
+Totale: 50.00 
+): Failed to open stream: HTTP request failed! HTTP/1.1 401 Unauthorized
+ in /home/prontocl/servizimenu.it/menutest/ordine/tavolo/londort-send.php on line 23
+[05-Jan-2023 16:36:17 Europe/Madrid] PHP Warning:  fopen(https://api.telegram.org/bot5983802501:AAFbfnwqsGhSjYK0TBMtlAo__XaPVsVtMkA/sendMessage?chat_id=-872131602&amp;parse_mode=html&amp;text=Order:
+piatto: Degustazione cruditè di pesce fresco 
+quantita: 1 
+prezzo: 50.00 
+piatto: Degustazione cruditè di pesce fresco 
+quantita: 1 
+prezzo: 50.00 
+Totale: 50.00 
+): Failed to open stream: HTTP request failed! HTTP/1.1 401 Unauthorized
+ in /home/prontocl/servizimenu.it/menutest/ordine/tavolo/londort-send.php on line 23
+[05-Jan-2023 16:40:33 Europe/Madrid] PHP Warning:  fopen(https://api.telegram.org/bot5983802501:AAFbfnwqsGhSjYK0TBMtlAo__XaPVsVtMkA/sendMessage?chat_id=-872131602&amp;parse_mode=html&amp;text=Order:
+piatto: Degustazione cruditè di pesce fresco 
+quantita: 1 
+prezzo: 50.00 
+piatto: Degustazione cruditè di pesce fresco 
+quantita: 1 
+prezzo: 50.00 
+Totale: 50.00 
+): Failed to open stream: HTTP request failed! HTTP/1.1 401 Unauthorized
+ in /home/prontocl/servizimenu.it/menutest/ordine/tavolo/londort-send.php on line 23
+[05-Jan-2023 16:59:33 Europe/Madrid] PHP Warning:  fopen(https://api.telegram.org/bot5983802501:AAFbfnwqsGhSjYK0TBMtlAo__XaPVsVtMkA/sendMessage?chat_id=-872131602&amp;parse_mode=html&amp;text=Order:
+piatto: Degustazione cruditè di pesce fresco 
+quantita: 1 
+prezzo: 50.00 
+piatto: Degustazione cruditè di pesce fresco 
+quantita: 1 
+prezzo: 50.00 
+Totale: 50.00 
+): Failed to open stream: HTTP request failed! HTTP/1.1 401 Unauthorized
+ in /home/prontocl/servizimenu.it/menutest/ordine/tavolo/londort-send.php on line 23
+[05-Jan-2023 17:01:41 Europe/Madrid] PHP Warning:  fopen(https://api.telegram.org/bot5983802501:AAFbfnwqsGhSjYK0TBMtlAo__XaPVsVtMkA/sendMessage?chat_id=-872131602&amp;parse_mode=html&amp;text=Order:
+piatto: Degustazione cruditè di pesce fresco 
+quantita: 1 
+prezzo: 50.00 
+piatto: Degustazione cruditè di pesce fresco 
+quantita: 1 
+prezzo: 50.00 
+Totale: 50.00 
+): Failed to open stream: HTTP request failed! HTTP/1.1 401 Unauthorized
+ in /home/prontocl/servizimenu.it/menutest/ordine/tavolo/londort-send.php on line 23
+[05-Jan-2023 17:49:29 Europe/Madrid] PHP Warning:  foreach() argument must be of type array|object, null given in /home/prontocl/servizimenu.it/menutest/ordine/tavolo/londort-send.php on line 11
+[05-Jan-2023 17:51:46 Europe/Madrid] PHP Warning:  foreach() argument must be of type array|object, null given in /home/prontocl/servizimenu.it/menutest/ordine/tavolo/londort-send.php on line 11
+[06-Jan-2023 14:52:06 Europe/Madrid] PHP Warning:  Array to string conversion in /home/prontocl/servizimenu.it/menutest/ordine/tavolo/londort-email-send.php on line 5
+[06-Jan-2023 17:09:20 Europe/Madrid] PHP Warning:  file_get_contents(sendArr.json): Failed to open stream: No such file or directory in /home/prontocl/servizimenu.it/menutest/ordine/tavolo/londort-email-send.php on line 3
+[06-Jan-2023 17:10:27 Europe/Madrid] PHP Warning:  file_get_contents(sendArr.json): Failed to open stream: No such file or directory in /home/prontocl/servizimenu.it/menutest/ordine/tavolo/londort-email-send.php on line 3
+[06-Jan-2023 17:10:32 Europe/Madrid] PHP Warning:  file_get_contents(sendArr.json): Failed to open stream: No such file or directory in /home/prontocl/servizimenu.it/menutest/ordine/tavolo/londort-email-send.php on line 3
+[06-Jan-2023 17:21:11 Europe/Madrid] PHP Warning:  file_get_contents(sendArr.json): Failed to open stream: No such file or directory in /home/prontocl/servizimenu.it/menutest/ordine/tavolo/londort-email-send.php on line 3
+[06-Jan-2023 17:21:29 Europe/Madrid] PHP Warning:  file_get_contents(sendArr.json): Failed to open stream: No such file or directory in /home/prontocl/servizimenu.it/menutest/ordine/tavolo/londort-email-send.php on line 3
+[06-Jan-2023 17:22:24 Europe/Madrid] PHP Warning:  file_get_contents(sendArr.json): Failed to open stream: No such file or directory in /home/prontocl/servizimenu.it/menutest/ordine/tavolo/londort-email-send.php on line 3
+[06-Jan-2023 17:23:35 Europe/Madrid] PHP Warning:  file_get_contents(sendArr.json): Failed to open stream: No such file or directory in /home/prontocl/servizimenu.it/menutest/ordine/tavolo/londort-email-send.php on line 3
+[06-Jan-2023 17:23:49 Europe/Madrid] PHP Warning:  file_get_contents(sendArr.json): Failed to open stream: No such file or directory in /home/prontocl/servizimenu.it/menutest/ordine/tavolo/londort-email-send.php on line 3
+[06-Jan-2023 17:24:56 Europe/Madrid] PHP Warning:  Array to string conversion in /home/prontocl/servizimenu.it/menutest/ordine/tavolo/londort-email-send.php on line 7
+[06-Jan-2023 17:25:58 Europe/Madrid] PHP Warning:  Array to string conversion in /home/prontocl/servizimenu.it/menutest/ordine/tavolo/londort-email-send.php on line 7
+[06-Jan-2023 17:25:58 Europe/Madrid] PHP Warning:  Array to string conversion in /home/prontocl/servizimenu.it/menutest/ordine/tavolo/londort-email-send.php on line 8
+[06-Jan-2023 17:28:05 Europe/Madrid] PHP Warning:  Array to string conversion in /home/prontocl/servizimenu.it/menutest/ordine/tavolo/londort-email-send.php on line 7
+[06-Jan-2023 17:28:05 Europe/Madrid] PHP Warning:  Array to string conversion in /home/prontocl/servizimenu.it/menutest/ordine/tavolo/londort-email-send.php on line 8
+[06-Jan-2023 17:28:05 Europe/Madrid] PHP Fatal error:  Uncaught TypeError: mail(): Argument #3 ($message) must be of type string, array given in /home/prontocl/servizimenu.it/menutest/ordine/tavolo/londort-email-send.php:18
+Stack trace:
+#0 /home/prontocl/servizimenu.it/menutest/ordine/tavolo/londort-email-send.php(18): mail()
+#1 {main}
+  thrown in /home/prontocl/servizimenu.it/menutest/ordine/tavolo/londort-email-send.php on line 18
+[06-Jan-2023 17:30:17 Europe/Madrid] PHP Warning:  Array to string conversion in /home/prontocl/servizimenu.it/menutest/ordine/tavolo/londort-email-send.php on line 7
+[06-Jan-2023 17:30:17 Europe/Madrid] PHP Warning:  Array to string conversion in /home/prontocl/servizimenu.it/menutest/ordine/tavolo/londort-email-send.php on line 8
+[06-Jan-2023 17:30:17 Europe/Madrid] PHP Fatal error:  Uncaught TypeError: mail(): Argument #3 ($message) must be of type string, array given in /home/prontocl/servizimenu.it/menutest/ordine/tavolo/londort-email-send.php:18
+Stack trace:
+#0 /home/prontocl/servizimenu.it/menutest/ordine/tavolo/londort-email-send.php(18): mail()
+#1 {main}
+  thrown in /home/prontocl/servizimenu.it/menutest/ordine/tavolo/londort-email-send.php on line 18
+[06-Jan-2023 17:36:15 Europe/Madrid] PHP Warning:  Array to string conversion in /home/prontocl/servizimenu.it/menutest/ordine/tavolo/londort-email-send.php on line 7
+[06-Jan-2023 17:36:15 Europe/Madrid] PHP Warning:  Array to string conversion in /home/prontocl/servizimenu.it/menutest/ordine/tavolo/londort-email-send.php on line 8
+[06-Jan-2023 17:36:15 Europe/Madrid] PHP Warning:  Array to string conversion in /home/prontocl/servizimenu.it/menutest/ordine/tavolo/londort-email-send.php on line 12
+[06-Jan-2023 17:38:24 Europe/Madrid] PHP Warning:  Array to string conversion in /home/prontocl/servizimenu.it/menutest/ordine/tavolo/londort-email-send.php on line 10
+[06-Jan-2023 17:44:02 Europe/Madrid] PHP Warning:  Array to string conversion in /home/prontocl/servizimenu.it/menutest/ordine/tavolo/londort-email-send.php on line 10
+[06-Jan-2023 17:50:35 Europe/Madrid] PHP Fatal error:  Uncaught Error: Object of class stdClass could not be converted to string in /home/prontocl/servizimenu.it/menutest/ordine/tavolo/londort-email-send.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/prontocl/servizimenu.it/menutest/ordine/tavolo/londort-email-send.php on line 18
+[06-Jan-2023 17:50:38 Europe/Madrid] PHP Warning:  foreach() argument must be of type array|object, null given in /home/prontocl/servizimenu.it/menutest/ordine/tavolo/londort-email-send.php on line 17
+[06-Jan-2023 17:52:36 Europe/Madrid] PHP Warning:  foreach() argument must be of type array|object, string given in /home/prontocl/servizimenu.it/menutest/ordine/tavolo/londort-email-send.php on line 17
+[06-Jan-2023 17:54:29 Europe/Madrid] PHP Warning:  Array to string conversion in /home/prontocl/servizimenu.it/menutest/ordine/tavolo/londort-email-send.php on line 18
+[06-Jan-2023 17:54:29 Europe/Madrid] PHP Warning:  Array to string conversion in /home/prontocl/servizimenu.it/menutest/ordine/tavolo/londort-email-send.php on line 18
+[06-Jan-2023 17:54:29 Europe/Madrid] PHP Warning:  Array to string conversion in /home/prontocl/servizimenu.it/menutest/ordine/tavolo/londort-email-send.php on line 18
+[06-Jan-2023 17:54:34 Europe/Madrid] PHP Warning:  foreach() argument must be of type array|object, null given in /home/prontocl/servizimenu.it/menutest/ordine/tavolo/londort-email-send.php on line 17
