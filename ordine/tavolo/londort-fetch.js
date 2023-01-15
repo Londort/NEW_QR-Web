@@ -2,10 +2,13 @@
 const sendBtn = document.querySelector('#invia-ordine'),
 	  url1 = './londort-send.php',
 	  url2 = '../tavolo/londort-email-send.php',
-	  lmcartItems = document.body.querySelector('.lmcart-items'),
-	  lmcartItem = document.body.querySelector('.lmcart-item');
+	  orderList = document.querySelector('#riepilogo-ordine'),
+	  cartItems = orderList.children;
+	//   lmcartItems = document.body.querySelector('.lmcart-items'),
+	//   lmcartItem = document.body.querySelector('.lmcart-item');
 
-console.log(sessionStorage)
+console.log(sessionStorage);
+console.dir(cartItems);
 
 sendBtn.addEventListener('click', async function(e){
 	e.preventDefault();
@@ -14,7 +17,7 @@ sendBtn.addEventListener('click', async function(e){
 	// Array to cycle...
 
 	const sendArr = [],
-		  cartItems = document.body.querySelectorAll('.lmcart-item'),
+		//   cartItems = document.body.querySelectorAll('.lmcart-item'),
 		  total = {
 			"Totale": document.querySelector('.lmcart-total').innerText
 		  };
