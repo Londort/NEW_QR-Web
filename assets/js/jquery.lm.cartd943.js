@@ -32,6 +32,9 @@
             ADD_DATA_CUSTOM: 'data-custom',
             ADD_DATA_ING: 'data-ing',
             ADD_DATA_NOTE: 'data-note',
+            // Londort >>>
+            ADD_DATA_PORTATA: 'data-portata',
+            // <<< Londort
 
             // Add to Cart Popup
             POPUP_ID: '#add-cart-popup',
@@ -102,6 +105,10 @@
 
         }
 
+        // Londort ----------------------------
+        console.log(sessionStorage);
+        // !Londort ----------------------------
+
         // Add to Cart Action
         var addToCart = function(el){
 
@@ -120,7 +127,10 @@
                 custom: el.attr(settings.ADD_DATA_CUSTOM),
                 custom_ing: el.attr(settings.ADD_DATA_ING),
                 note: el.attr(settings.ADD_DATA_NOTE),
-                currency: currency
+                currency: currency,
+                // Londort >>>>>
+                portata: el.attr(settings.ADD_DATA_PORTATA)
+                // <<<< Londort
             }
 
             // Search for duplicate
@@ -359,7 +369,7 @@
                 price_label: el.data('price-label'),
                 custom: el.data('custom'),
                 ing: el.data('ing'),
-                note: el.data('note')
+                note: el.data('note'),
             };
 
             // Build Title
@@ -369,7 +379,10 @@
                 var priceLabel = '';
             }
             $(settings.POPUP_TITLE).html('1 x ' + data.title + '<br><small> ' + currency + ' ' + data.price + priceLabel + '</small>');
-console.log('popup');
+            console.log('popup');
+
+            
+
             // Build Ingredients
             if(data.ing && data.ing.length > 0){
 
@@ -420,6 +433,9 @@ console.log('popup');
             $(settings.POPUP_NOTE).attr('data-voce-id', data.id);
             $(settings.POPUP_NOTE + ' textarea').val('');
 
+            
+            
+
             // Transfer all data to Confirm button
             $(settings.ADD_CLASS).attr({
                 'id': 'add_' + data.id,
@@ -432,6 +448,7 @@ console.log('popup');
                 'data-custom': data.custom,
                 'data-ing':  '',
                 'data-note':  '',
+                'data-portata': ""
             });
 
             // Set Base price in Total
@@ -476,6 +493,17 @@ console.log('popup');
                 }
 
             });
+
+            // Bind portata Londort >>>
+
+            let select = document.querySelector('.pl-4');   
+            let portata = select.addEventListener('change', () => {
+                portata = select.value;
+                console.log(portata);
+                $(settings.ADD_CLASS).attr('data-portata', portata);
+            });
+
+            // <<< Londort
 
         }
 
@@ -573,7 +601,7 @@ console.log('popup');
                 '           <h2 class="font-600">' + $(settings.ORDER_SUBTOTAL).data('string') + '</h2>' +
                 '       </div>' +
                 '       <div class="ml-auto text-center">' +
-                '           <h2 class="notranslate">' + currency + ' ' + parseFloat(cartTotal).toFixed(2) + '</h2>' +
+                '           <h2 class="notranslate">' + currency + ' ' + parseFloat(cartTotal).toFixed(2) + '           </h2>' +
                 '       </div>' +
                 '   </div>' +
                 '</div>');
