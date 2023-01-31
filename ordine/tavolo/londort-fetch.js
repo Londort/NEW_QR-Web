@@ -8,8 +8,9 @@ const sendBtn = document.querySelector('#invia-ordine'),
 let sessionData = sessionStorage,
 	filteredData = {},
 	sendArr = [],
+	
 	total = {
-		"Totale": document.querySelector('.lmcart-total').innerText
+		"Totale": null
 	};
 
 console.group('sessionStorage cycle elements');
@@ -17,29 +18,42 @@ console.group('sessionStorage cycle elements');
 for(let item in sessionStorage){
 	if( item.indexOf('comanda_') !== -1 ) {
 		let dish = filteredData[item] = JSON.parse(sessionData.getItem(item));
-		console.dir(dish.title);
+
 		let dishInfo = {
-			'Portata': dish.portata,
-			'Piatto': dish.title,
-			'Quantita': dish.qty,
-			'Prezzo': dish.price
+			"Portata": dish.portata,
+			"Piatto": dish.title,
+			"Quantita": dish.qty,
+			"Prezzo": dish.price,
+			"Subtotale": null,
+			_summ () {
+				this.Subtotale = (parseFloat(this.Prezzo)*this.Quantita).toFixed(2);
+			}
 		}
-		console.log(dishInfo);
+		dishInfo._summ();
 		sendArr.push(dishInfo);
-		sendArr.push(total);
+		
 	}
 };
 
-// console.dir(filteredData);
-console.log(filteredData);
+for(let item of sendArr){
+	console.dir(item.Subtotale);
+	total.Totale += parseFloat(item.Subtotale);
+	
+};
+console.log(total);
+total.Totale.toFixed(2);
+
+sendArr.push(total);
+console.dir(sendArr);
+
+// console.log(filteredData);
 console.groupEnd();
 
-console.group('populate sendArr')
-
-
-console.groupEnd
-
-
+console.group('Total price value search');
+	const totalSumm = document.querySelector('h1.notranslate');
+	console.dir(totalSumm);
+	console.dir(totalSumm.innerText);
+console.groupEnd();
 
 sendBtn.addEventListener('click', async function(e){
 	e.preventDefault();

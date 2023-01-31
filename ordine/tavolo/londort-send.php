@@ -21,8 +21,8 @@ mail($to, 'Test order email', $message, $headers);
 //Telegram part
 
 $token = "5872805296:AAEAs4_M6wkTLRfMsscDXq3ojQqsY5UYkl0";
-// $chat_id = "-893011950";
-$chat_id = "-878731406";
+$chat_id = "-893011950";
+// $chat_id = "-878731406";
 $telegram = "Order:\n";
 
 foreach ($unpack as $el) {
